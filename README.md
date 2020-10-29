@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![github stats](https://github-readme-stats.vercel.app/api?username=solyarisoftware&show_icons=true)
+
 -->
 
 My name is [Giorgio Robino](https://github.com/solyarisoftware). 
 I am Conversational AI engineer/researcher at http://itd.cnr.it. 
 I built CPIAbot. 
-
-![github stats](https://github-readme-stats.vercel.app/api?username=solyarisoftware&show_icons=true)
 
 ## About me
 ```javascript
