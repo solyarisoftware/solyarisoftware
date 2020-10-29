@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=solyarisoftware&show_icons=true)
 
+## 📫 How to reach me
+[![](https://img.shields.io/badge/giorgio.robino@gmail.com-red)](mailto:giorgio.robino@gmail.com)
 -->
 
 My name is [Giorgio Robino](https://github.com/solyarisoftware). 
@@ -43,16 +45,11 @@ const solyarisoftwaare = () => {
 ```
 
 ## 🔭 I’m currently working on
-
-- I'm prototyping a real-time system-embedded cobot voice assistant.
+I'm prototyping a real-time system-embedded cobot voice assistant.
 
 ## ⚡ My active opensource projects
 
 * [NaifJs](https://github.com/solyarisoftware/naifjs)
 * [JoinTTS](https://github.com/solyarisoftware/jointts)
 
-
-## 📫 How to reach me
-
-[![](https://img.shields.io/badge/giorgio.robino@gmail.com-red)](mailto:giorgio.robino@gmail.com)
 
