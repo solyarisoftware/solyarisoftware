@@ -23,7 +23,7 @@ My name is [Giorgio Robino](https://github.com/solyarisoftware), and I am a rese
 [![](https://img.shields.io/badge/giorgio.robino@gmail.com-red)](mailto:giorgio.robino@gmail.com)
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=binsarjr&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=solyarisoftware&show_icons=true)
 
 ## About me
 ```javascript
