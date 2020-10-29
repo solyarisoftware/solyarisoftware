@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 My name is [Giorgio Robino](https://github.com/solyarisoftware), and I am a researcher and engineer in conversational AI.
 
-[![](https://img.shields.io/badge/giorgio.robino@gmail.com-red)](mailto:giorgio.robino@gmail.com)
-
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=solyarisoftware&show_icons=true)
 
@@ -43,6 +41,13 @@ const solyarisoftwaare = () => {
 ```
 
 
-## My contribution
+## 🔭 I’m currently working on
+
 * [NaifJs](https://github.com/solyarisoftware/naifjs)
 * [JoinTTS](https://github.com/solyarisoftware/jointts)
+
+
+## 📫 How to reach me
+
+[![](https://img.shields.io/badge/giorgio.robino@gmail.com-red)](mailto:giorgio.robino@gmail.com)
+
