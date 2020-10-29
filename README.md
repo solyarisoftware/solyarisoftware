@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is [Giorgio Robino](https://github.com/solyarisoftware), and I am a researcher and engineer in conversational AI.
-
+My name is [Giorgio Robino](https://github.com/solyarisoftware). 
+I am Conversational AI engineer/researcher at http://itd.cnr.it. 
+I built CPIAbot. 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=solyarisoftware&show_icons=true)
 
@@ -24,24 +25,27 @@ My name is [Giorgio Robino](https://github.com/solyarisoftware), and I am a rese
 ```javascript
 const solyarisoftwaare = () => {
   return {
-    pronouns: "He" | "Him",
-    askMeAbout: ["chatbots", "conversartional AI"],
+    askMeAbout: ['dialog managers', 'chatbots', 'conversational AI'],
     technologies: {
-        backEnd: ["Nodejs", "Javascript"],
+        backEnd: ['Nodejs', 'Javascript'],
         fronEnd: [],
-        database: ["Graph dbs"],
+        database: ['Graph dbs'],
+        dialogManagers: ['Naifjs']
     },
     Social: {
-        Twitter : "https://twitter.com/solyarisoftware",
-        Linkedin : "https://www.linkedin.com/in/giorgiorobino",
-        Website : "htps://convcomp.it"
+        Twitter : 'https://twitter.com/solyarisoftware',
+        Linkedin : 'https://www.linkedin.com/in/giorgiorobino',
+        Website : 'htps://convcomp.it'
     }
   }
 }
 ```
 
-
 ## 🔭 I’m currently working on
+
+- I'm prototyping a real-time system-embedded cobot voice assistant.
+
+## ⚡ My active opensource projects
 
 * [NaifJs](https://github.com/solyarisoftware/naifjs)
 * [JoinTTS](https://github.com/solyarisoftware/jointts)
