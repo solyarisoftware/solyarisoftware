@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-### Hi there 👋
-
 My name is [Giorgio Robino](https://github.com/solyarisoftware), and I am a researcher and engineer in conversational AI.
 
 [![](https://img.shields.io/badge/giorgio.robino@gmail.com-red)](mailto:giorgio.robino@gmail.com)
