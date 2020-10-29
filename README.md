@@ -14,3 +14,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi there 👋
+
+My name is [Giorgio Robino](https://github.com/solyarisoftware), and I am a researcher and engineer in conversational AI.
+
+[![](https://img.shields.io/badge/giorgio.robino@gmail.com-red)](mailto:giorgio.robino@gmail.com)
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=binsarjr&show_icons=true)
+
+## About me
+```javascript
+const solyarisoftwaare = () => {
+  return {
+    pronouns: "He" | "Him",
+    askMeAbout: ["chatbots", "conversartional AI"],
+    technologies: {
+        backEnd: ["Nodejs", "Javascript"],
+        fronEnd: [],
+        database: ["Graph dbs"],
+    },
+    Social: {
+        Twitter : "https://twitter.com/solyarisoftware",
+        Linkedin : "https://www.linkedin.com/in/giorgiorobino",
+        Website : "htps://convcomp.it"
+    }
+  }
+}
+```
+
+
+## My contribution
+* [NaifJs](https://github.com/solyarisoftware/naifjs)
+* [JoinTTS](https://github.com/solyarisoftware/jointts)
