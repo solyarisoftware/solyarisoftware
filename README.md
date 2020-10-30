@@ -20,13 +20,17 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/giorgio.robino@gmail.com-red)](mailto:giorgio.robino@gmail.com)
 -->
 
-My name is [Giorgio Robino](https://github.com/solyarisoftware). 
-I am Conversational AI engineer/researcher at http://itd.cnr.it. 
-I built CPIAbot. 
+- My name is [Giorgio Robino](https://github.com/solyarisoftware)
+- I am Conversational AI engineer and researcher at [itd.cnr.it](http://itd.cnr.it) 
+- I built CPIAbot
+- 🔭 I'm prototyping a real-time system-embedded cobot voice assistant
+- ⚡ My active opensource projects:
+  - [NaifJs](https://github.com/solyarisoftware/naifjs)
+  - [JoinTTS](https://github.com/solyarisoftware/jointts)
 
 ## About me
 ```javascript
-const solyarisoftwaare = () => {
+const solyarisoftware = () => {
   return {
     askMeAbout: ['dialog managers', 'chatbots', 'conversational AI'],
     technologies: {
@@ -43,13 +47,3 @@ const solyarisoftwaare = () => {
   }
 }
 ```
-
-## 🔭 I’m currently working on
-I'm prototyping a real-time system-embedded cobot voice assistant.
-
-## ⚡ My active opensource projects
-
-* [NaifJs](https://github.com/solyarisoftware/naifjs)
-* [JoinTTS](https://github.com/solyarisoftware/jointts)
-
-
