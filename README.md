@@ -24,7 +24,8 @@ const solyarisoftware = () => {
         Github : 'https://github.com/solyarisoftware',
         Twitter : 'https://twitter.com/solyarisoftware',
         Linkedin : 'https://www.linkedin.com/in/giorgiorobino',
-        Website : 'htps://convcomp.it'
+        Medium : 'htps://solyarisoftware.medium.com'
+        Blog : 'htps://convcomp.it'
     }
   }
 }
