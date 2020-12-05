@@ -5,8 +5,10 @@
 - I built CPIAbot
 - I'm prototyping a real-time system-embedded cobot voice assistant
 - My active opensource projects:
-  - [NaifJs](https://github.com/solyarisoftware/naifjs), a simple state-machine based dialog manager
-  - [JoinTTS](https://github.com/solyarisoftware/jointts), a brainless concatenative text to speech
+  - [NaifJs](https://github.com/solyarisoftware/naifjs), simple state-machine based dialog manager
+  - [JoinTTS](https://github.com/solyarisoftware/jointts), brainless concatenative text to speech
+  - [WeBAD](https://github.com/solyarisoftware/webad), web Browser Audio Detection/Speech Recording Events API
+  
 
 ## About me
 ```javascript
