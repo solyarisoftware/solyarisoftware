@@ -8,7 +8,6 @@
   - [NaifJs](https://github.com/solyarisoftware/naifjs), simple state-machine based dialog manager
   - [JoinTTS](https://github.com/solyarisoftware/jointts), brainless concatenative text to speech
   - [WeBAD](https://github.com/solyarisoftware/webad), web Browser Audio Detection/Speech Recording Events API
-  
 
 ## About me
 ```javascript
@@ -47,6 +46,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=solyarisoftware&show_icons=true)
+
+| stats | Languages |
+| ----- | --------- |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solyarisoftware&count_private=true&show_icons=true&custom_title=GitHub%20Profile%20Summary&include_all_commits=true&hide_border=true&hide_rank=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solyarisoftware&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats) |
+
+
 
 ## 📫 How to reach me
 [![](https://img.shields.io/badge/giorgio.robino@gmail.com-red)](mailto:giorgio.robino@gmail.com)
