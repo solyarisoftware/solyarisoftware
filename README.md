@@ -3,7 +3,7 @@
 - My name is [Giorgio Robino](https://github.com/solyarisoftware)
 - I am Conversational AI engineer and researcher at [itd.cnr.it](http://itd.cnr.it) 
 - I built CPIAbot
-- I'm prototyping a real-time system-embedded [enterprise voice cobot](https://bit.ly/forkliftcobotarticle)
+- I'm prototyping a real-time system-embedded [Enterprise Voice Cobot](https://bit.ly/forkliftcobotarticle)
 - My active opensource projects:
   - [NaifJs](https://github.com/solyarisoftware/naifjs), simple state-machine based dialog manager
   - [JoinTTS](https://github.com/solyarisoftware/jointts), brainless concatenative text to speech
@@ -15,11 +15,12 @@ const solyarisoftware = () => {
   return {
     askMeAbout: ['dialog managers', 'chatbots', 'conversational AI'],
     technologies: {
-        backEnd: ['Nodejs', 'Javascript'],
-        fronEnd: [],
+        backEnd: ['Nodejs', 'Javascript', 'bash scripting', 'Linux server', 'HTTP servers', 'socketIO', 'server architectures'],
+        fronEnd: ['Javascript', webAD, 'socketIO'],
         database: ['JSON'],
-        dialogManagers: ['Naifjs'],
-        textToSpeech: ['joinTTS']
+        dialogManagers: ['Naifjs', 'RASA'],
+        speechRecognition: ['Vosk', 'DeepSpeech'],
+        textToSpeech: ['Google Translate', 'joinTTS']
     },
     Social: {
         Github : 'https://github.com/solyarisoftware',
