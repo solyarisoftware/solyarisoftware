@@ -1,13 +1,14 @@
 ## @solyarisoftware
 
 - My name is [Giorgio Robino](https://github.com/solyarisoftware)
-- I am Conversational AI engineer and researcher at [itd.cnr.it](http://itd.cnr.it) 
-- I built CPIAbot
+- I am Conversational AI engineer and researcher at [itd.cnr.it](http://itd.cnr.it), where I built CPIAbot
 - I'm prototyping a real-time system-embedded [Enterprise Voice Cobot](https://bit.ly/forkliftcobotarticle)
 - My active opensource projects:
-  - [NaifJs](https://github.com/solyarisoftware/naifjs), simple state-machine based dialog manager
+  - [VoskJs](https://github.com/solyarisoftware/voskjs), simple nodejs interface to Vosk speech recognition engine
+  - [DeepSpeechJs](https://github.com/solyarisoftware/deepspeechjs), simple nodejs interface to Mozilla DeepSpeech speech recognition engine
   - [JoinTTS](https://github.com/solyarisoftware/jointts), brainless concatenative text to speech
   - [WeBAD](https://github.com/solyarisoftware/webad), web Browser Audio Detection/Speech Recording Events API
+  - [NaifJs](https://github.com/solyarisoftware/naifjs), simple state-machine based dialog manager
 
 ## About me
 ```javascript
@@ -16,10 +17,10 @@ const solyarisoftware = () => {
     askMeAbout: ['dialog managers', 'chatbots', 'conversational AI'],
     technologies: {
         backEnd: ['Nodejs', 'Javascript', 'bash scripting', 'Linux server', 'HTTP servers', 'socketIO', 'server architectures'],
-        fronEnd: ['Javascript', webAD, 'socketIO'],
+        frontEnd: ['Javascript', webAD, 'socketIO'],
         database: ['JSON'],
         dialogManagers: ['Naifjs', 'RASA'],
-        speechRecognition: ['Vosk', 'DeepSpeech'],
+        speechRecognitionEngines: ['Vosk', 'DeepSpeech'],
         textToSpeech: ['Google Translate', 'joinTTS']
     },
     Social: {
