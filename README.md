@@ -2,8 +2,9 @@
 
 - My name is [Giorgio Robino](https://github.com/solyarisoftware)
 - I am Conversational AI engineer and researcher at [itd.cnr.it](http://itd.cnr.it), where I built CPIAbot
-- I'm prototyping a real-time system-embedded [Enterprise Voice Cobot](https://bit.ly/forkliftcobotarticle)
+- I'm prototyping a real-time on-premise [Enterprise Voice Cobot](https://bit.ly/forkliftcobotarticle)
 - My active opensource projects:
+  - [CoquiSTTJs](https://github.com/solyarisoftware/coquisttjs), simple nodejs interface to Coqui STT speech recognition engine
   - [VoskJs](https://github.com/solyarisoftware/voskjs), simple nodejs interface to Vosk speech recognition engine
   - [DeepSpeechJs](https://github.com/solyarisoftware/deepspeechjs), simple nodejs interface to Mozilla DeepSpeech speech recognition engine
   - [JoinTTS](https://github.com/solyarisoftware/jointts), brainless concatenative text to speech
