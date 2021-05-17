@@ -1,4 +1,4 @@
-## @solyarisoftware
+## About me
 
 - My name is [Giorgio Robino](https://github.com/solyarisoftware)
 - I am Conversational AI engineer and researcher at [itd.cnr.it](http://itd.cnr.it), where I built CPIAbot
@@ -9,6 +9,8 @@
   - [JoinTTS](https://github.com/solyarisoftware/jointts), brainless concatenative text to speech
   - [WeBAD](https://github.com/solyarisoftware/webad), web Browser Audio Detection/Speech Recording Events API
   - [NaifJs](https://github.com/solyarisoftware/naifjs), simple state-machine based dialog manager
+
+<!--
 
 ## About me
 ```javascript
@@ -33,7 +35,8 @@ const solyarisoftware = () => {
   }
 }
 ```
-<!--
+
+
 **solyarisoftware/solyarisoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
