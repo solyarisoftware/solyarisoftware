@@ -4,13 +4,15 @@
 - I am Conversational AI engineer and researcher at [itd.cnr.it](http://itd.cnr.it), where I built CPIAbot
 - I'm prototyping a real-time on-premise [Enterprise Voice Cobot](https://bit.ly/forkliftcobotarticle)
 - My active opensource projects:
-  - [CoquiSTTJs](https://github.com/solyarisoftware/coquisttjs), simple nodejs interface to Coqui STT speech recognition engine
-  - [VoskJs](https://github.com/solyarisoftware/voskjs), simple nodejs interface to Vosk speech recognition engine
-  - [DeepSpeechJs](https://github.com/solyarisoftware/deepspeechjs), simple nodejs interface to Mozilla DeepSpeech speech recognition engine
+  - [nera.vim](https://github.com/solyarisoftware/nera.vim) Named Entities (Rasa-like) syntax Annotator for vim editor
+  - [Highlight.vim](https://github.com/solyarisoftware/Highlight.vim) Highlight vim plugin colorizes pattern of texts, with a random or specified background colors 
+  - [NaifJs](https://github.com/solyarisoftware/naifjs), simple state-machine based dialog manager
   - [JoinTTS](https://github.com/solyarisoftware/jointts), brainless concatenative text to speech
   - [WeBAD](https://github.com/solyarisoftware/webad), web Browser Audio Detection/Speech Recording Events API
-  - [NaifJs](https://github.com/solyarisoftware/naifjs), simple state-machine based dialog manager
-
+  - [VoskJs](https://github.com/solyarisoftware/voskjs), simple nodejs interface to Vosk speech recognition engine
+  - [CoquiSTTJs](https://github.com/solyarisoftware/coquisttjs), simple nodejs interface to Coqui STT speech recognition engine
+  - [DeepSpeechJs](https://github.com/solyarisoftware/deepspeechjs), simple nodejs interface to Mozilla DeepSpeech speech recognition engine
+ 
 <!--
 
 ## About me
