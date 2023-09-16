@@ -1,9 +1,12 @@
 ## About me
 
 - My name is [Giorgio Robino](https://github.com/solyarisoftware)
-- I am Conversational AI engineer and researcher at [itd.cnr.it](http://itd.cnr.it), where I built CPIAbot
-- I'm prototyping a real-time on-premise [Enterprise Voice Cobot](https://bit.ly/forkliftcobotarticle)
+  - I'm an experienced Conversational AI leader @almawave, expert in chatbot/voicebot apps.
+  - Former researcher at [itd.cnr.it](http://itd.cnr.it), where I built CPIAbot.
+  - I envisioned a real-time on-premise [Enterprise Voice Cobot](https://bit.ly/forkliftcobotarticle)
+    
 - My active opensource projects:
+  - [prompter.vim](https://github.com/solyarisoftware/prompter.vim) vim as a perfect large language models prompts playground
   - [nera.vim](https://github.com/solyarisoftware/nera.vim) Named Entities (Rasa-like) syntax Annotator for vim editor
   - [Highlight.vim](https://github.com/solyarisoftware/Highlight.vim) Highlight vim plugin colorizes pattern of texts, with a random or specified background colors 
   - [NaifJs](https://github.com/solyarisoftware/naifjs), simple state-machine based dialog manager
