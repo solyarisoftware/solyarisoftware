@@ -5,7 +5,7 @@
   - Former researcher at [itd.cnr.it](http://itd.cnr.it), where I built CPIAbot.
   - I envisioned a real-time on-premise [Enterprise Voice Cobot](https://bit.ly/forkliftcobotarticle)
     
-- My active opensource projects:
+- Some of my opensource projects:
   - [prompter.vim](https://github.com/solyarisoftware/prompter.vim) vim as a perfect large language models prompts playground
   - [nera.vim](https://github.com/solyarisoftware/nera.vim) Named Entities (Rasa-like) syntax Annotator for vim editor
   - [Highlight.vim](https://github.com/solyarisoftware/Highlight.vim) Highlight vim plugin colorizes pattern of texts, with a random or specified background colors 
